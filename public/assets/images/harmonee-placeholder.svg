@@ -1,0 +1,28 @@
+<svg width="900" height="1200" viewBox="0 0 900 1200" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Harmonee placeholder preview</title>
+  <desc id="desc">A placeholder product preview showing web and mobile app screens for Harmonee.</desc>
+  <rect width="900" height="1200" rx="72" fill="#F5F7FA"/>
+  <rect x="96" y="104" width="708" height="992" rx="54" fill="#FFFFFF" stroke="#D9DDE1" stroke-width="4"/>
+  <rect x="142" y="164" width="616" height="360" rx="34" fill="#EEF1F4"/>
+  <rect x="180" y="210" width="250" height="28" rx="14" fill="#4546D7"/>
+  <rect x="180" y="260" width="420" height="20" rx="10" fill="#ABADB0"/>
+  <rect x="180" y="296" width="320" height="20" rx="10" fill="#D9DDE1"/>
+  <circle cx="642" cy="290" r="78" fill="#94F991"/>
+  <path d="M610 290C610 272.327 624.327 258 642 258C659.673 258 674 272.327 674 290C674 307.673 659.673 322 642 322C624.327 322 610 307.673 610 290Z" fill="#4546D7"/>
+  <path d="M642 251L655.044 277.427L684.214 281.665L663.107 302.24L668.088 331.291L642 317.575L615.912 331.291L620.893 302.24L599.786 281.665L628.956 277.427L642 251Z" fill="#FFFFFF"/>
+  <rect x="180" y="388" width="174" height="72" rx="24" fill="#4546D7"/>
+  <rect x="384" y="388" width="174" height="72" rx="24" fill="#FFFFFF" stroke="#ABADB0" stroke-width="3"/>
+  <rect x="142" y="582" width="278" height="438" rx="40" fill="#2C2F32"/>
+  <rect x="166" y="622" width="230" height="358" rx="28" fill="#FFFFFF"/>
+  <circle cx="281" cy="732" r="58" fill="#9396FF"/>
+  <rect x="204" y="828" width="154" height="18" rx="9" fill="#4546D7"/>
+  <rect x="212" y="864" width="138" height="14" rx="7" fill="#ABADB0"/>
+  <rect x="228" y="904" width="106" height="40" rx="20" fill="#94F991"/>
+  <rect x="480" y="612" width="250" height="68" rx="22" fill="#EEF1F4"/>
+  <rect x="510" y="637" width="132" height="18" rx="9" fill="#4546D7"/>
+  <rect x="480" y="718" width="250" height="68" rx="22" fill="#EEF1F4"/>
+  <rect x="510" y="743" width="166" height="18" rx="9" fill="#ABADB0"/>
+  <rect x="480" y="824" width="250" height="68" rx="22" fill="#EEF1F4"/>
+  <rect x="510" y="849" width="146" height="18" rx="9" fill="#ABADB0"/>
+  <text x="450" y="1092" text-anchor="middle" font-family="Plus Jakarta Sans, Arial, sans-serif" font-size="46" font-weight="800" fill="#4546D7">Harmonee</text>
+</svg>
