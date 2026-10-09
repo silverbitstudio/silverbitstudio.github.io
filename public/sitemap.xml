@@ -82,6 +82,54 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://www.silverbit.studio/en/products/harmonee/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.silverbit.studio/en/products/harmonee/"/>
+    <xhtml:link rel="alternate" hreflang="vi" href="https://www.silverbit.studio/vi/products/harmonee/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.silverbit.studio/en/products/harmonee/"/>
+    <changefreq>monthly</changefreq>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>https://www.silverbit.studio/vi/products/harmonee/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.silverbit.studio/en/products/harmonee/"/>
+    <xhtml:link rel="alternate" hreflang="vi" href="https://www.silverbit.studio/vi/products/harmonee/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.silverbit.studio/en/products/harmonee/"/>
+    <changefreq>monthly</changefreq>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>https://www.silverbit.studio/en/products/harmonee/privacy.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.silverbit.studio/en/products/harmonee/privacy.html"/>
+    <xhtml:link rel="alternate" hreflang="vi" href="https://www.silverbit.studio/vi/products/harmonee/privacy.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.silverbit.studio/en/products/harmonee/privacy.html"/>
+    <changefreq>yearly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.silverbit.studio/vi/products/harmonee/privacy.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.silverbit.studio/en/products/harmonee/privacy.html"/>
+    <xhtml:link rel="alternate" hreflang="vi" href="https://www.silverbit.studio/vi/products/harmonee/privacy.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.silverbit.studio/en/products/harmonee/privacy.html"/>
+    <changefreq>yearly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.silverbit.studio/en/products/harmonee/terms.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.silverbit.studio/en/products/harmonee/terms.html"/>
+    <xhtml:link rel="alternate" hreflang="vi" href="https://www.silverbit.studio/vi/products/harmonee/terms.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.silverbit.studio/en/products/harmonee/terms.html"/>
+    <changefreq>yearly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.silverbit.studio/vi/products/harmonee/terms.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.silverbit.studio/en/products/harmonee/terms.html"/>
+    <xhtml:link rel="alternate" hreflang="vi" href="https://www.silverbit.studio/vi/products/harmonee/terms.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.silverbit.studio/en/products/harmonee/terms.html"/>
+    <changefreq>yearly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://www.silverbit.studio/en/delete-account.html</loc>
     <xhtml:link rel="alternate" hreflang="en" href="https://www.silverbit.studio/en/delete-account.html"/>
     <xhtml:link rel="alternate" hreflang="vi" href="https://www.silverbit.studio/vi/delete-account.html"/>
